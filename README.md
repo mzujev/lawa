@@ -1,5 +1,5 @@
 # Lawa is a Lightweight Asynchronous WWW Agent.
-___
+
 ### Features
 
 - Asynchronous (uses the event-driven [lua-ev](https://github.com/brimworks/lua-ev) library along with coroutines)
