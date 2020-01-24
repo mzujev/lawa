@@ -10,8 +10,8 @@
 
 To install ***Lawa*** use `git clone` and manually resolve the dependencies.
 ```sh
-$ mkdir -p ~/lawa/ && cd ~/lawa/
-$ git clone https://github.com/mzujev/lawa
+	mkdir -p ~/lawa/ && cd ~/lawa/
+	git clone https://github.com/mzujev/lawa
 ```
 After that, copy `lawa.lua` to the appropriate Lua environment path or strictly require `lawa.lua` in your project.
 
@@ -83,4 +83,4 @@ After that, copy `lawa.lua` to the appropriate Lua environment path or strictly 
 - [luasec](https://github.com/brunoos/luasec) - Library for ssl support
 
 ### Copyright
-See [Copyright.txt](https://github.com/mzujev/lawa/Copyright.txt) file for details
+See [Copyright.txt](https://github.com/mzujev/lawa/blob/master/Copyright.txt) file for details
